@@ -7,10 +7,10 @@ q3: 2.28.1
 
 q4: the virtual environment uses the requests package that is installed local to this repo (installed in environment files) while the non virtual environment uses the system installed package of requests
 
-q5: 301, you must visist https://www.google.com
+q5: 301, you must visist http://www.google.com
 
-q6:
+q6: 301 and then 418
 
-q7: Request method changes from GET to POST
+q7: Request method changes from GET to POST, good for sending POST requests when we want to send data in the body of an http request
 
 q8: https://raw.githubusercontent.com/neilZon/cmput-404-lab-0/main/script.py
